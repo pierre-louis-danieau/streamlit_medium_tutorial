@@ -110,8 +110,8 @@ if __name__ == "__main__":
     )
 
     # Import the two csv files of the departure and arrival cities
-    PATH_DEPARTURE_CITY = '/Users/pierre-louis.danieau/Documents/perso_divers/medium/article/departure_city.csv'
-    PATH_DESTINATION_CITY = '/Users/pierre-louis.danieau/Documents/perso_divers/medium/article/destination_city.csv'
+    PATH_DEPARTURE_CITY = 'departure_city.csv'
+    PATH_DESTINATION_CITY = 'destination_city.csv'
     df_ville_origine = pd.read_csv(PATH_DEPARTURE_CITY)
     df_ville_destination = pd.read_csv(PATH_DESTINATION_CITY)
     del df_ville_origine['Unnamed: 0']
