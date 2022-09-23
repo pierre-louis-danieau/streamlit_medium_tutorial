@@ -4,7 +4,7 @@
 
 ✏️ I wrote a Medium article that explains in detail the code of this project: available here  : Lien.
 
-## Projet Description
+## Project Description
 
 We will develop an application to search for trains eligible for the TGV Max subscription. (Subscription of 79 euros/month offered to young people which allows to book for free an unlimited number of eligible trains under conditions of low traffic)
 
