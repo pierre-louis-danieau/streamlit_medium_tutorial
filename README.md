@@ -11,7 +11,6 @@ We will develop an application to search for trains eligible for the TGV Max sub
 
 ![web app](https://user-images.githubusercontent.com/67114372/191899670-8783fa6d-29e3-4fb8-af4f-a1736020a3ee.png)
 
-**The public link of the project url is [available here](https://pierre-louis-danieau-streamlit-medium-tutorial-app-kp7nxu.streamlitapp.com/) (it may be necessary to reboot the app if it is paused).**
 
 
 ## How to reproduce locally this Data Web App
@@ -66,3 +65,5 @@ We will develop an application to search for trains eligible for the TGV Max sub
 ## Want to go further in the development of a web application ?
 
 I have created a course on streamlit that will surely interest you to explore all the possibilities of creating a personal data project or developing an MVP !
+
+--> [Link to the udemy course on Streamlit 🎉](https://www.udemy.com/course/streamlit-deployer-son-app-de-machine-learning-sur-le-web/)
